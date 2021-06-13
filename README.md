@@ -2,7 +2,7 @@
 - 👀 I’m interested in traveling
 - 🌱 I’m currently learning about leadership
 - 💞️ I’m looking to collaborate on your website
-- 📫 How to reach me ? Visit my blog 
+- 📫 How to reach me ? Visit my blog https://www.meimoodaema.com/
 
 <!---
 meidaema/meidaema is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
